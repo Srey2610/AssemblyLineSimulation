@@ -1,10 +1,3 @@
-/*
-Name: Shrey Priteshkumar Patel
-Date of completion: 11/12/2021
-
-I confirm that I am the only author of this file 
-and the content was created entirely by me.
-*/
 #include <utility>
 #include <iostream>
 #include "Workstation.h"
