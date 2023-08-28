@@ -1,11 +1,3 @@
-/*
-Name: Shrey Priteshkumar Patel
-Date of completion: 11/12/2021
-
-I confirm that I am the only author of this file 
-and the content was created entirely by me.
-*/
-
 #ifndef SDDS_STATION_H
 #define SDDS_STATION_H
 #include <iostream>
